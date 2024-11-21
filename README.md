@@ -44,4 +44,4 @@ I’m a passionate data enthusiast with a strong foundation in Python, machine l
 ## 📬 Contact Details  
 
 - **Email:** [bsmehra410@example.com](mailto:bsmehra410@example.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+
