@@ -108,9 +108,6 @@ Currently working on:
 - Creating **scalable data pipelines for market data analysis**
 
 ---
----
-
-
 
 ## 📬 Contact Details  
 
