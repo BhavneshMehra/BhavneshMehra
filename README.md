@@ -108,6 +108,12 @@ Currently working on:
 - Creating **scalable data pipelines for market data analysis**
 
 ---
+---
+
+## 📊 GitHub Stats
+
+![Bhavnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
+
 
 ## 📬 Contact Details  
 
