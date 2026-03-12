@@ -112,7 +112,7 @@ Currently working on:
 
 ## 📊 GitHub Stats
 
-![Bhavnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
+![Bhavnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavneshMehra&show_icons=true&theme=dark)
 
 
 ## 📬 Contact Details  
